@@ -1,16 +1,17 @@
-# hyper_garage
+# This is my final project for info6150 called hyper_garage
 
-A new Flutter application.
+A Flutter application.
 
-## Getting Started
+## Main Pages of this app
 
-This project is a starting point for a Flutter application.
+![Image text](https://github.com/NEU-GradStudents/final-project-kekekgwj/blob/master/final/1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![Image text](https://github.com/NEU-GradStudents/final-project-kekekgwj/blob/master/final/2.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Image text](https://github.com/NEU-GradStudents/final-project-kekekgwj/blob/master/final/3.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image text](https://github.com/NEU-GradStudents/final-project-kekekgwj/blob/master/final/4.jpg)
+
+
+
+# final-project-kekekgwj
